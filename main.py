@@ -11,7 +11,7 @@ pygame.display.set_caption("Игра Тир")
 icon = pygame.image.load("img/article_w830_1543748445battlefield5reportedlysetinworldwar1accordn4cq.jpg")
 pygame.display.set_icon(icon)
 
-target_img = pygame.image.load("img/target.png")
+target_img = pygame.image.load("target.png")
 target_width = 80
 target_height = 80
 
